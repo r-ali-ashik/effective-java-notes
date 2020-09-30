@@ -102,3 +102,8 @@ public class NutritionFacts {
 }
 ```
 
+
+## Item 3: Enforce the singleton property with a private constructor or an enum type
+    - a single-element enum type is often the best way to implement a singleton
+
+
